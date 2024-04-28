@@ -1,0 +1,48 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "OwU3kJLmYm_9-FS97rKsb",
+      "type": "text",
+      "x": 388,
+      "y": 143,
+      "width": 573.359375,
+      "height": 150,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1552650096,
+      "version": 235,
+      "versionNonce": 1010068368,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1714143160283,
+      "link": null,
+      "locked": false,
+      "text": "1) front single page\n2) subscription plan page\n3) search functionality\n4) infinite scrolling\n5) stipe or razorpay intergration\n6) build the original font page of nextflix not the old one",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 143,
+      "containerId": null,
+      "originalText": "1) front single page\n2) subscription plan page\n3) search functionality\n4) infinite scrolling\n5) stipe or razorpay intergration\n6) build the original font page of nextflix not the old one",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
